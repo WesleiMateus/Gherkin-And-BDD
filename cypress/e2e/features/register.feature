@@ -2,7 +2,7 @@ Feature: Register User
 
   Me as an client
   Need to access the system
-  To bay something that i want
+  To buy something that i want
 
   Background: access register page
     Given I am on the register page
